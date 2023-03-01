@@ -1,5 +1,4 @@
-h1 {
-  color: blueviolet;
-  font-size: 60px;
-  text-align: right;
+#prueba {
+  text-shadow: 9px 9px red;
+  text-transform: uppercase;
 }
