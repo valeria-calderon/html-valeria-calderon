@@ -1,0 +1,19 @@
+#cr7 {
+  width: 300px;
+  height: 300px;
+  margin-left: 200px;
+  display: block;
+  filter: grayscale(100%) drop-shadow(5px 5px red);
+}
+#cora {
+  width: 300px;
+  height: 300;
+  filter: grayscale(100%) drop-shadow(5px 5px green);
+}
+
+#ratas {
+  width: 200px;
+  margin-left: auto;
+  display: block;
+  filter: grayscale(100%) drop-shadow(5px 5px pink);
+}
